@@ -1,4 +1,9 @@
 ---
 label: Blog1
 hide_body: false
-fields: []
+fields:
+- name: kuhn
+  type: text
+  config:
+    required: false
+  label: Kuhn
