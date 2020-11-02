@@ -7,3 +7,9 @@ fields:
   config:
     required: false
   label: Kuhn
+- name: asdfasd
+  type: text
+  config:
+    required: false
+  label: asdfasd
+  description: Test
